@@ -9,4 +9,4 @@
 
 # "깃헙에서 수정한 문장"
 
-# git patch
+# git fetch
